@@ -12,5 +12,6 @@ Help :::
 -d <DEL> | specifies a delay, Work In Progress
 -o | specifies the search mode [use this option for searching open ports only] Work In Progress
 `
+
 Developer: [Youssef Fakhry](https://github.com/yeimsf)
 
